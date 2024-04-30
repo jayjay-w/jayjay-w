@@ -5,7 +5,6 @@ but most recently I have been focused on **Ruby and Rails** and **ReactJS**.
 
 #### More about me:
 
-- 🔭 I’m currently working on https://github.com/meedan
 - 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on any cool open source Ruby on Rails projects
 - 💬 Ask me about *Kenya* 🇰🇪...
