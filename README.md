@@ -5,6 +5,8 @@ but most recently I have been focused on **Ruby and Rails** and **ReactJS**.
 
 ### 🔥 My Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayjay-w)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayjay-w&theme=default&show_icons=true&hide_border=true&count_private=true)
 
-![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jayjay-w&show_icons=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjay-w&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=jayjay-w&theme=default&hide_border=true)
