@@ -9,4 +9,4 @@ but most recently I have been focused on **Elixir**, **Ruby and Rails** and **Re
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjay-w&theme=default&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=jayjay-w&theme=default&hide_border=true)
+-- ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=jayjay-w&theme=default&hide_border=true)
