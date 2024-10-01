@@ -1,7 +1,7 @@
 ### Hi There, 
 
 I am Joseph (Jay), a software engineer with over 10 years experience. I have worked with many technologies over the years,
-but most recently I have been focused on **Ruby and Rails** and **ReactJS**.
+but most recently I have been focused on **Elixir**, **Ruby and Rails** and **ReactJS**.
 
 ### 🔥 My Stats:
 
